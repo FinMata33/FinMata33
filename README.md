@@ -1,9 +1,9 @@
 ### About Me
 
 
-**FinMata33/FinMata33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FinMata33
 
-Here are some ideas to get you started:
+About:
 
 - 🔭 I’m currently working on Corporate Fundamental analysis
 - 🌱 I’m currently learning advanced mathmatics and programming languages
